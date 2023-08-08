@@ -88,8 +88,8 @@
         <version>1.7.0</version>  
         <configuration>
           <schemaVersion>V2</schemaVersion>
-          <resourceGroup>02-todo-web-application-h2-1691531922248-rg</resourceGroup>
-          <appName>02-todo-web-application-h2-1691531922248</appName>
+          <resourceGroup>todo-web-application-h2</resourceGroup>
+          <appName>todo-web-application-h2-snehasish</appName>
           <pricingTier>B1</pricingTier>
           <region>westeurope</region>
           <runtime>
